@@ -23,7 +23,7 @@
 </li>
   <li>Graduated at Math & Computer Science from Cankaya University with Java language.</li>
   <li>:telescope: I work as a Front-End and Mobile Developer at Switzerland Company <a href="http://essgofood.com">essgo.ch</a></li>
-  <li>:seedling: Currently learning on react framework and pyhton with django framework.</li>
+  <li>:seedling: Currently learning on react JS and pyhton with django framework.</li>
   <li>:seedling: Now, continue to: <a href="https://cs50.harvard.edu/web/2020/">CS50’s Web Programming with Python and JavaScript</a></li>
    <li>:mailbox:How to reach me: <a href="mailto:battalmustafa88@gmail.com">Send mail to battalmustafa88@gmail.com</a></li>
 
