@@ -19,13 +19,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
-  <li>  I am a Frontend & Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+  <li>  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 </li>
-  <li>Graduated at Math & Computer Science from Cankaya University with Java language.</li>
-  <li>:telescope: I work as a Front-End and Mobile Developer at Switzerland Company <a href="http://essgofood.com">essgo.ch</a></li>
-  <li>:seedling: Currently learning on react JS and pyhton with django framework.</li>
- 
-   <li>:mailbox:How to reach me: <a href="mailto:battalmustafa88@gmail.com">Send mail to battalmustafa88@gmail.com</a></li>
+  <li>Graduated at Applied Math & Computer Science from Cankaya University.</li>
+  <li>:telescope: I work as a FrontEnd Developer at German Company</li> 
+  <li>:mailbox:How to reach me: <a href="mailto:battalmustafa88@gmail.com">Send mail to battalmustafa88@gmail.com</a></li>
 
  ---
 
@@ -37,28 +35,14 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="ionic" alt="ionic" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="Yii" alt="Yii" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg?short_path=a7ec4b5"  title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 
   </div>
-    <div>
-      <h2>Under Construction:</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
-  
-  </div>
-  <div>
-    <h2>Interested in:</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-
-  </div>
-  
-    
-  
+ 
 </div>
   </div>
 
